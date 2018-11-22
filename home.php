@@ -8,7 +8,7 @@
 </head>
 <body>
     <table><tr><th><td>Gihan</td><td>amith</td></th></tr><tr><td>ss</td>
-    <td>ss</td>
+    <td>Amith</td>
     <td>ss</td></tr></table>
 </body>
 </html>
